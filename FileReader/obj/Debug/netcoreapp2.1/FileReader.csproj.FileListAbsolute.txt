@@ -1,0 +1,16 @@
+C:\Users\akothar\Source\Repos\FileReader\FileReader\obj\Debug\netcoreapp2.1\FileReader.csproj.CoreCompileInputs.cache
+C:\Users\akothar\Source\Repos\FileReader\FileReader\obj\Debug\netcoreapp2.1\FileReader.AssemblyInfoInputs.cache
+C:\Users\akothar\Source\Repos\FileReader\FileReader\obj\Debug\netcoreapp2.1\FileReader.AssemblyInfo.cs
+C:\Users\akothar\Source\Repos\FileReader\FileReader\bin\Debug\netcoreapp2.1\FileReader.deps.json
+C:\Users\akothar\Source\Repos\FileReader\FileReader\bin\Debug\netcoreapp2.1\FileReader.runtimeconfig.json
+C:\Users\akothar\Source\Repos\FileReader\FileReader\bin\Debug\netcoreapp2.1\FileReader.runtimeconfig.dev.json
+C:\Users\akothar\Source\Repos\FileReader\FileReader\bin\Debug\netcoreapp2.1\FileReader.dll
+C:\Users\akothar\Source\Repos\FileReader\FileReader\bin\Debug\netcoreapp2.1\FileReader.pdb
+C:\Users\akothar\Source\Repos\FileReader\FileReader\obj\Debug\netcoreapp2.1\FileReader.csprojAssemblyReference.cache
+C:\Users\akothar\Source\Repos\FileReader\FileReader\obj\Debug\netcoreapp2.1\FileReader.RazorAssemblyInfo.cache
+C:\Users\akothar\Source\Repos\FileReader\FileReader\obj\Debug\netcoreapp2.1\FileReader.RazorAssemblyInfo.cs
+C:\Users\akothar\Source\Repos\FileReader\FileReader\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\akothar\Source\Repos\FileReader\FileReader\obj\Debug\netcoreapp2.1\FileReader.RazorTargetAssemblyInfo.cache
+C:\Users\akothar\Source\Repos\FileReader\FileReader\obj\Debug\netcoreapp2.1\FileReader.dll
+C:\Users\akothar\Source\Repos\FileReader\FileReader\obj\Debug\netcoreapp2.1\FileReader.pdb
+C:\Users\akothar\Source\Repos\FileReader\FileReader\bin\Debug\netcoreapp2.1\Corpus.csv
